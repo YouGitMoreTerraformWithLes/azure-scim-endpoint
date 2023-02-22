@@ -8,6 +8,9 @@ description: SCIM provisioning reference code
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
+# This repo is an azure implementation of the sample code offered by Microsoft Azure 
+https://github.com/AzureAD/SCIMReferenceCode
+
 # SCIM Reference Code
 
 <!-- 
